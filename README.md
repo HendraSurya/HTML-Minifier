@@ -1,0 +1,2 @@
+# HTML-Minifier
+HTML
